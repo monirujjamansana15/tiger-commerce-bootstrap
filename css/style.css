@@ -1,0 +1,25 @@
+.tiger-info-background{
+    background-color: #fceae8;
+}
+.categories-bg-1{
+    background-color: #ffa500;
+    border-radius: 10px;
+}
+.categories-bg-2{
+    background-color: #da70d6;
+    border-radius: 10px;
+}
+.categories-bg-3{
+    background-color: #0000ff;
+    border-radius: 10px;
+}
+.categories img{
+    width: 100px;
+}
+.tiger-btn-bg{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
